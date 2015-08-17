@@ -139,11 +139,10 @@ set showcmd
 
 " Set colors
 set t_Co=256
-syntax on
+syntax enable
 set background=dark
-" Use Hybrid, to use ~/.Xresources uncomment next line
-" let g:hybrid_use_Xresources = 1
-colorscheme hybrid
+let g:solarized_termcolors=256
+colorscheme solarized
 
 
 " Replace search with easymotion multi char search
