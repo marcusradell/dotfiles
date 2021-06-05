@@ -6,6 +6,7 @@ Plug 'tpope/vim-sensible'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'kevinoid/vim-jsonc'
 Plug 'preservim/nerdtree'
+Plug 'mattn/emmet-vim'
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
