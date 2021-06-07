@@ -5,6 +5,7 @@
   # $ nix-env -qaP | grep wget
   environment.systemPackages =
     [ pkgs.neovim
+      pkgs.nodejs-14_x
     ];
 
   # Use a custom configuration.nix location.
