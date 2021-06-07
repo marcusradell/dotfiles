@@ -21,6 +21,7 @@ let g:coc_global_extensions = [
   \'coc-css',
   \]
 
+let NERDTreeShowHidden=1
 set number
 
 set tabstop=2       " number of visual spaces per TAB
