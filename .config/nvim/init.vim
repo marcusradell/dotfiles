@@ -23,6 +23,7 @@ let g:coc_global_extensions = [
 
 let NERDTreeShowHidden=1
 set number
+hi CocErrorFloat guifg=#ff7777 guibg=#3f4145
 
 set tabstop=2       " number of visual spaces per TAB
 set softtabstop=2   " number of spaces in tab when editing
