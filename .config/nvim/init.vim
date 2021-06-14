@@ -8,6 +8,9 @@ Plug 'kevinoid/vim-jsonc'
 Plug 'preservim/nerdtree'
 Plug 'mattn/emmet-vim'
 Plug 'LnL7/vim-nix'
+Plug 'leafgarland/typescript-vim'
+Plug 'peitalin/vim-jsx-typescript'
+
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
@@ -23,6 +26,7 @@ let g:coc_global_extensions = [
 
 let NERDTreeShowHidden=1
 set number
+set termguicolors
 hi CocErrorFloat guifg=#ff7777 guibg=#3f4145
 
 set tabstop=2       " number of visual spaces per TAB
