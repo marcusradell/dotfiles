@@ -30,7 +30,7 @@ set number
 set termguicolors
 
 hi CocErrorFloat guifg=#ff7777 guibg=#3f4145
-nnoremap <silent> U :call CocAction('doHover')<CR>
+nnoremap <silent> K :call CocAction('doHover')<CR>
 "nmap <silent> gd <Plug>(coc-definition)
 "nmap <silent> gy <Plug>(coc-type-definition)
 "nmap <silent> gr <Plug>(coc-references)
