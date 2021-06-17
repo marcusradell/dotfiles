@@ -27,7 +27,20 @@ let g:coc_global_extensions = [
 let NERDTreeShowHidden=1
 set number
 set termguicolors
+
 hi CocErrorFloat guifg=#ff7777 guibg=#3f4145
+nnoremap <silent> K :call CocAction('doHover')<CR>
+"nmap <silent> gd <Plug>(coc-definition)
+"nmap <silent> gy <Plug>(coc-type-definition)
+"nmap <silent> gr <Plug>(coc-references)
+"nmap <silent> [g <Plug>(coc-diagnostic-prev)
+"nmap <silent> rn <Plug>(coc-rename)
+"nmap <silent> ]g <Plug>(coc-diagnostic-next)
+"nnoremap <silent> <space>a :<C-u>CocList actions<cr>
+"nnoremap <silent> <space>d :<C-u>CocList diagnostics<cr>
+"nnoremap <silent> <space>s :<C-u>CocList symbols<cr>
+"nnoremap <silent> <space>o :<C-u>CocList outline<cr>
+
 
 set tabstop=2       " number of visual spaces per TAB
 set softtabstop=2   " number of spaces in tab when editing
