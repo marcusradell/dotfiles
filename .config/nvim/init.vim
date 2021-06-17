@@ -10,6 +10,7 @@ Plug 'mattn/emmet-vim'
 Plug 'LnL7/vim-nix'
 Plug 'leafgarland/typescript-vim'
 Plug 'peitalin/vim-jsx-typescript'
+Plug 'pantharshit00/vim-prisma'
 
 
 " List ends here. Plugins become visible to Vim after this call.
@@ -48,6 +49,9 @@ set shiftwidth=2    " number of spaces to use for autoindent
 set expandtab       " tabs are space
 set autoindent
 set copyindent  
+
+set ignorecase
+set smartcase
 
 nnoremap nt :NERDTreeToggle<CR>
 nnoremap nf :NERDTreeFind<CR>
