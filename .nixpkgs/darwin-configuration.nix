@@ -4,10 +4,7 @@
   # List packages installed in system profile. To search by name, run:
   # $ nix-env -qaP | grep wget
   environment.systemPackages =
-    [ pkgs.neovim
-      pkgs.nodejs-14_x
-      pkgs.ripgrep
-      pkgs.tmux
+    [ pkgs.nodejs-14_x
     ];
 
   # Use a custom configuration.nix location.
