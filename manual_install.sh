@@ -4,3 +4,4 @@ open https://rustup.rs/
 open https://ohmyz.sh/#install
 open https://bitwarden.com/download/
 open https://github.com/alacritty/alacritty/releases/
+open https://apps.apple.com/us/app/magnet/id441258766
