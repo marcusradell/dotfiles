@@ -1,4 +1,3 @@
-brew install --cask alacritty
 brew install nvim
 brew install tmux
 brew install ripgrep
