@@ -11,4 +11,5 @@ open https://www.microsoft.com/en-us/microsoft-teams/download-app
 open https://apps.apple.com/app/slack/id803453959
 open https://www.microsoft.com/en-us/microsoft-teams/download-app#desktopAppDownloadregion
 open https://zoom.us/support/download?os=mac
-https://keybase.io/docs/the_app/install_macos
+open https://keybase.io/docs/the_app/install_macos
+open https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/
