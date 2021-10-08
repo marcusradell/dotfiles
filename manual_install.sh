@@ -14,4 +14,4 @@ open https://zoom.us/support/download?os=mac
 open https://keybase.io/docs/the_app/install_macos
 open https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/
 open https://docs.docker.com/desktop/mac/install/
-https://github.com/nvm-sh/nvm
+open https://github.com/nvm-sh/nvm
